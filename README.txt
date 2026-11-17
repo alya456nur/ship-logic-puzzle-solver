@@ -72,7 +72,7 @@ INSTALLATION
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR-USERNAME/ship-logic-puzzle-solver.git
+   git clone https://github.com/alya456nur/ship-logic-puzzle-solver.git
 
 2. Navigate to the project directory:
 
